@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gursha-dev-121835-authRole",
+      "UnauthRoleArn": "arn:aws:iam::290708837587:role/amplify-gursha-dev-121835-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::290708837587:role/amplify-gursha-dev-121835-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gursha-dev-121835-deployment",
+      "UnauthRoleName": "amplify-gursha-dev-121835-unauthRole",
+      "StackName": "amplify-gursha-dev-121835",
+      "StackId": "arn:aws:cloudformation:us-east-1:290708837587:stack/amplify-gursha-dev-121835/6c617900-c63f-11ed-ad99-0e9c2d305597",
+      "AmplifyAppId": "dnl0zteslsw26"
+    },
+    "categories": {
+      "auth": {
+        "gurshaa3824e4a": {}
+      },
+      "storage": {
+        "s3563a0297": {}
+      }
+    }
+  }
+}
